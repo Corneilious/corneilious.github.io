@@ -14,7 +14,7 @@ h3{
 body{
 
 	text-align: center;
-border-top: 10px solid black;
+    border-top: 10px solid black;
 	border-bottom: 10px solid black;
 	background-color: (190,190,180)
 
@@ -35,6 +35,13 @@ img {
     border:3px solid black;
     float: right;
     height: 35%
+}
+
+hr{
+
+}
+
+ol {
 
 
 }
